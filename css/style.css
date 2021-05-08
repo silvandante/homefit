@@ -137,6 +137,7 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+	object-fit: cover;
 }
 
 .spad {
@@ -3179,7 +3180,6 @@ ol {
 		width: 750px;
 	}
 	.hs-slider .hs-item {
-		height: auto;
 		padding: 250px 0 150px;
 	}
 	.hs-slider .hs-item .hi-text h1 {
