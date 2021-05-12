@@ -1,8 +1,13 @@
-Thank you for using our template!
+HomeFit
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+O HomeFit é um aplicativo que entrega uma experiência de academia online para treinos grátis onde você estiver com opção de assinatura para um maior conteúdo ou ainda planos com acompanhamento de personal trainer e aulas individuais.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Treine gratuitamente em uma academia online sem sair de casa e mantenha sua saúde em dia!
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Divulgue seus treinos gratuitamente e ganhe dinheiro dando aulas individuais com horário flexível.
+
+O HomeFit é um aplicativo que entrega uma experiência de academia online para treinos grátis onde você estiver com opção de assinatura para um maior conteúdo ou ainda planos com acompanhamento de personal trainer e aulas individuais.
+
+HomeFit é uma academia online grátis ou com assinatura para treino e personal trainer exclusivos.
+
+By silvandante
